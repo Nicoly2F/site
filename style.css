@@ -3,10 +3,10 @@
     padding: 0;
  }
  body {
-    font-family: 'acma', "right didone";
+    font-family: 'Linotype', "right didone";
  }
  .cabecalho {
-    background-color: #002a6d;
+    background-color: #06299b;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -25,7 +25,7 @@
     width: 25%;
  }
  .escola{
-    background-image: linear-gradient(#143770,#16CFF8);
+    background-image: linear-gradient(#06299b,#16CFF8);
     
     color:white;
     display: flex;
@@ -63,7 +63,7 @@
     grid-template-columns: 25% 25% 25% 25%;
  }
  .rodape{
-    background-color: rgba(35, 10, 150, 0.863);
+    background-color: #06299b;
     text-align: center;
  }
  .rodape-imagem{
